@@ -1,0 +1,17 @@
+Marker Settings for Testdata-Set
+
+Marker ID 0
+Orientation: 0 | 0 | 0
+Translation: 0 | 0 | 0.105
+
+Marker ID 1
+Orientation: 0 | 180 | 0
+Translation: 0 | 0 | -0.105
+
+Marker ID 2
+Orientation: 0 | 90 | 0
+Translation: 0.105 | 0 | 0
+
+Marker ID 3
+Orientation: 0 | -90 | 0
+Translation: 0 | 0 | 0.105
